@@ -1,2 +1,2 @@
-# hello-world
-The incredible test repository
+# Active Directory Lessons
+The incredible test repository for the AD Lessons
